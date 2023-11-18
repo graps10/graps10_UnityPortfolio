@@ -33,7 +33,20 @@ Horror game
 
 Driving game
 
-![Fastlane Frenzy Preview](link_to_image_or_video)
+<div align="center">
+  <img src="content/imgs/Fastlane%20Frenzy/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/7.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/8.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/9.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/10.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/11.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fastlane%20Frenzy/12.png" width="225" height="150" alt="Image">
+</div>
 
 ---
 
@@ -44,7 +57,18 @@ Driving game
 
 2D Space shooter game
 
-![Laser Defender Preview](link_to_image_or_video)
+<div align="center">
+  <img src="content/imgs/Laser Defender/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Laser Defender/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Laser Defender/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Laser Defender/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Laser Defender/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Laser Defender/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Laser Defender/7.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Laser Defender/8.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Laser Defender/9.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Laser Defender/10.png" width="225" height="150" alt="Image">
+</div>
 
 ---
 
@@ -55,7 +79,15 @@ Driving game
 
 Tower Defense game
 
-![Realm Rush Preview](link_to_image_or_video)
+<div align="center">
+  <img src="content/imgs/Realm Rush/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Realm Rush/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Realm Rush/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Realm Rush/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Realm Rush/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Realm Rush/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Realm Rush/7.png" width="225" height="150" alt="Image">
+</div>
 
 ---
 
@@ -66,7 +98,15 @@ Tower Defense game
 
 3D Space shooter game
 
-![Argon Assault Preview](link_to_image_or_video)
+<div align="center">
+  <img src="content/imgs/Argon Assault/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Argon Assault/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Argon Assault/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Argon Assault/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Argon Assault/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Argon Assault/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Argon Assault/7.png" width="225" height="150" alt="Image">
+</div>
 
 ---
 
@@ -88,7 +128,15 @@ https://rextair.itch.io/3dmazerat
 
 Memory Puzzle Game
 
-![Incredible Grocery Preview](link_to_image_or_video)
+<div align="center">
+  <img src="content/imgs/Incredible Grocery/client_enters.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/order.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/order_assemble.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/products_selected.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/settings.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/wrong_products.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/correct_products.jpg" width="225" height="150" alt="Image">
+</div>
 
 ---
 
@@ -99,7 +147,15 @@ Memory Puzzle Game
 
 2D Platformer
 
-![Dungeon Master Preview](link_to_image_or_video)
+<div align="center">
+  <img src="content/imgs/Dungeon Master/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/7.png" width="225" height="150" alt="Image">
+</div>
 
 ---
 
