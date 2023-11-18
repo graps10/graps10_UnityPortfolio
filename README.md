@@ -7,7 +7,7 @@ Hello! I'm graps10, a Unity game developer. Here you'll find some of my projects
 - **Programming Language:** C#
 - **Type:** Unity3D
 
-Description of the Dark Forest project...
+Horror game
 
 <div align="center">
   <img src="content/imgs/Dark Forest/1.png" width="225" height="150" alt="Image">
@@ -31,7 +31,7 @@ Description of the Dark Forest project...
 - **Programming Language:** C#
 - **Type:** Unity3D
 
-Description of the Fastlane Frenzy project...
+Driving game
 
 ![Fastlane Frenzy Preview](link_to_image_or_video)
 
@@ -42,7 +42,7 @@ Description of the Fastlane Frenzy project...
 - **Programming Language:** C#
 - **Type:** Unity2D
 
-Description of the Laser Defender project...
+2D Space shooter game
 
 ![Laser Defender Preview](link_to_image_or_video)
 
@@ -53,7 +53,7 @@ Description of the Laser Defender project...
 - **Programming Language:** C#
 - **Type:** Unity3D
 
-Description of the Realm Rush project...
+Tower Defense game
 
 ![Realm Rush Preview](link_to_image_or_video)
 
@@ -64,7 +64,7 @@ Description of the Realm Rush project...
 - **Programming Language:** C#
 - **Type:** Unity3D
 
-Description of the Argon Assault project...
+3D Space shooter game
 
 ![Argon Assault Preview](link_to_image_or_video)
 
@@ -75,9 +75,9 @@ Description of the Argon Assault project...
 - **Programming Language:** C#
 - **Type:** Unity3D
 
-Description of the 3DMazeRat project...
+Arcade game
 
-![3DMazeRat Preview](link_to_image_or_video)
+https://rextair.itch.io/3dmazerat
 
 ---
 
@@ -86,7 +86,7 @@ Description of the 3DMazeRat project...
 - **Programming Language:** C#
 - **Type:** Unity2D
 
-Description of the Incredible Grocery project...
+Memory Puzzle Game
 
 ![Incredible Grocery Preview](link_to_image_or_video)
 
@@ -97,9 +97,20 @@ Description of the Incredible Grocery project...
 - **Programming Language:** C#
 - **Type:** Unity2D
 
-Description of the Dungeon Master project...
+2D Platformer
 
 ![Dungeon Master Preview](link_to_image_or_video)
+
+---
+
+## Little Adventurer
+- **Platform:** Desktop
+- **Programming Language:** C#
+- **Type:** Unity3D
+
+3D Action game
+
+The game is in development.
 
 ---
 
