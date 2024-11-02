@@ -4,10 +4,8 @@ Hello! I'm graps10, a Unity game developer. Here you'll find some of my projects
 
 ## Dark Forest
 - **Platform:** Desktop
-- **Programming Language:** C#
 - **Type:** Unity3D
-
-Horror game
+- **Description:** Horror game 
 
 <div align="center">
   <img src="content/imgs/Dark Forest/1.png" width="225" height="150" alt="Image">
@@ -28,10 +26,9 @@ Horror game
 
 ## Fastlane Frenzy
 - **Platform:** Desktop
-- **Programming Language:** C#
 - **Type:** Unity3D
+- **Description:** Driving game
 
-Driving game
 
 <div align="center">
   <img src="content/imgs/Fastlane%20Frenzy/1.png" width="225" height="150" alt="Image">
@@ -52,10 +49,9 @@ Driving game
 
 ## Laser Defender
 - **Platform:** Web
-- **Programming Language:** C#
 - **Type:** Unity2D
+- **Description:** 2D Space shooter game
 
-2D Space shooter game
 
 <div align="center">
   <img src="content/imgs/Laser Defender/1.png" width="225" height="150" alt="Image">
@@ -74,10 +70,9 @@ Driving game
 
 ## Realm Rush
 - **Platform:** Desktop
-- **Programming Language:** C#
 - **Type:** Unity3D
+- **Description:** Tower Defense game
 
-Tower Defense game
 
 <div align="center">
   <img src="content/imgs/Realm Rush/1.png" width="225" height="150" alt="Image">
@@ -93,10 +88,9 @@ Tower Defense game
 
 ## Argon Assault
 - **Platform:** Desktop
-- **Programming Language:** C#
 - **Type:** Unity3D
+- **Description:** 3D Space shooter game
 
-3D Space shooter game
 
 <div align="center">
   <img src="content/imgs/Argon Assault/1.png" width="225" height="150" alt="Image">
@@ -112,10 +106,9 @@ Tower Defense game
 
 ## 3DMazeRat
 - **Platform:** Desktop
-- **Programming Language:** C#
 - **Type:** Unity3D
+- **Description:** Arcade game
 
-Arcade game
 
 https://rextair.itch.io/3dmazerat
 
@@ -123,10 +116,9 @@ https://rextair.itch.io/3dmazerat
 
 ## Incredible Grocery
 - **Platform:** Android
-- **Programming Language:** C#
 - **Type:** Unity2D
+- **Description:** Memory Puzzle Game
 
-Memory Puzzle Game
 
 <div align="center">
   <img src="content/imgs/Incredible Grocery/client_enters.jpg" width="225" height="150" alt="Image">
@@ -142,10 +134,9 @@ Memory Puzzle Game
 
 ## Dungeon Master
 - **Platform:** Desktop
-- **Programming Language:** C#
 - **Type:** Unity2D
+- **Description:** 2D Platformer
 
-2D Platformer
 
 <div align="center">
   <img src="content/imgs/Dungeon Master/1.png" width="225" height="150" alt="Image">
@@ -161,12 +152,98 @@ Memory Puzzle Game
 
 ## Little Adventurer
 - **Platform:** Desktop
-- **Programming Language:** C#
 - **Type:** Unity3D
+- **Description:** 3D Action game
 
-3D Action game
 
-The game is in development.
+---
+## Flinko Space Explorer
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## Fliko Magic Spectrum
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## Spin to win slots
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## Win the Slot-casino
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## Stake Forvard-Casino
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## Cosmo Quest - Rush Lot
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## Yukon Kingdom - Gold Adventure
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## Rabbit - Marketplace master
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## Ox Haven - Barn Keeper
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## PinCo Snapshot Escapades
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## BDG Goal Guardians
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+
+---
+## Sahara Escape - Homeward Bound
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
+
+---
+## Aviato - Wings of Valor
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** 
 
 ---
 
