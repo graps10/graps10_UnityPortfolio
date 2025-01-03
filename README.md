@@ -143,13 +143,14 @@ https://rextair.itch.io/3dmazerat
 - **Description:** Memory Puzzle Game
 
 <div align="center">
-  <img src="content/imgs/Rabbit - Marketplace master/1.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Rabbit - Marketplace master/2.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Rabbit - Marketplace master/3.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Rabbit - Marketplace master/4.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Rabbit - Marketplace master/5.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Rabbit - Marketplace master/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/6.jpg" width="225" height="150" alt="Image">
 </div>
+
 ---
 ## Dungeon Master
 - **Platform:** Desktop
@@ -209,12 +210,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/1.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/2.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/3.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/4.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/5.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/6.jpg" width="225" height="150" alt="Image">
 </div>
 
 ---
@@ -229,12 +230,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Pinco Snapshot Escapades/1.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Pinco Snapshot Escapades/2.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Pinco Snapshot Escapades/3.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Pinco Snapshot Escapades/4.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Pinco Snapshot Escapades/5.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Pinco Snapshot Escapades/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/6.jpg" width="225" height="150" alt="Image">
 </div>
 
 ---
@@ -243,12 +244,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/BDG Goal Guardians/1.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/BDG Goal Guardians/2.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/BDG Goal Guardians/3.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/BDG Goal Guardians/4.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/BDG Goal Guardians/5.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/BDG Goal Guardians/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/6.jpg" width="225" height="150" alt="Image">
 </div>
 ---
 ## Aviato - Wings of Valor
@@ -256,12 +257,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Aviato - Wings of Valor/1.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/2.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/3.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/4.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/5.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/6.jpg" width="225" height="150" alt="Image">
 </div>
 
 ---
