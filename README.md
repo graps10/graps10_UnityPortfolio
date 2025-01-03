@@ -174,12 +174,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Flinko Space Explorer/1.jpg" width="250" height="250" alt="Image">
-  <img src="content/imgs/Flinko Space Explorer/2.jpg" width="250" height="250" alt="Image">
-  <img src="content/imgs/Flinko Space Explorer/3.jpg" width="250" height="250" alt="Image">
-  <img src="content/imgs/Flinko Space Explorer/4.jpg" width="250" height="250" alt="Image">
-  <img src="content/imgs/Flinko Space Explorer/5.jpg" width="250" height="250" alt="Image">
-  <img src="content/imgs/Flinko Space Explorer/6.jpg" width="250" height="250"alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/6.jpg" width="225" height="150" alt="Image">
 </div>
 
 ---
