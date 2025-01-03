@@ -113,7 +113,13 @@ Hello! I'm graps10, a Unity game developer. Here you'll find some of my projects
 https://rextair.itch.io/3dmazerat
 
 ---
+## Sahara Escape - Homeward Bound
+- **Platform:** IOS
+- **Type:** Unity2D
+- **App Store Link: https://apps.apple.com/ge/app/id6736633140**
 
+
+---
 ## Incredible Grocery
 - **Platform:** Android
 - **Type:** Unity2D
@@ -131,7 +137,20 @@ https://rextair.itch.io/3dmazerat
 </div>
 
 ---
+## Rabbit - Marketplace master
+- **Platform:** IOS
+- **Type:** Unity2D
+- **Description:** Memory Puzzle Game
 
+<div align="center">
+  <img src="content/imgs/Rabbit - Marketplace master/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Rabbit - Marketplace master/6.png" width="225" height="150" alt="Image">
+</div>
+---
 ## Dungeon Master
 - **Platform:** Desktop
 - **Type:** Unity2D
@@ -149,103 +168,108 @@ https://rextair.itch.io/3dmazerat
 </div>
 
 ---
-
-## Little Adventurer
-- **Platform:** Desktop
-- **Type:** Unity3D
-- **Description:** 3D Action game
-
-
----
 ## Flinko Space Explorer
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
 
 
 ---
 ## Fliko Magic Spectrum
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
 
 
 ---
 ## Spin to win slots
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
 
 
 ---
 ## Win the Slot-casino
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
 
 
 ---
 ## Stake Forvard-Casino
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
 
 
 ---
 ## Cosmo Quest - Rush Lot
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
 
 
 ---
 ## Yukon Kingdom - Gold Adventure
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
 
-
----
-## Rabbit - Marketplace master
-- **Platform:** IOS
-- **Type:** Unity2D
-- **Description:** 
-
+<div align="center">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/6.png" width="225" height="150" alt="Image">
+</div>
 
 ---
 ## Ox Haven - Barn Keeper
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
 
 
 ---
 ## PinCo Snapshot Escapades
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
 
+<div align="center">
+  <img src="content/imgs/Pinco Snapshot Escapades/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Pinco Snapshot Escapades/6.png" width="225" height="150" alt="Image">
+</div>
 
 ---
 ## BDG Goal Guardians
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
 
-
----
-## Sahara Escape - Homeward Bound
-- **Platform:** IOS
-- **Type:** Unity2D
-- **App Store Link: https://apps.apple.com/ge/app/id6736633140** 
-
+<div align="center">
+  <img src="content/imgs/BDG Goal Guardians/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/6.png" width="225" height="150" alt="Image">
+</div>
 ---
 ## Aviato - Wings of Valor
 - **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** 
+
+<div align="center">
+  <img src="content/imgs/Aviato - Wings of Valor/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/6.png" width="225" height="150" alt="Image">
+</div>
 
 ---
+## Little Adventurer
+- **Platform:** Desktop
+- **Type:** Unity3D
+- **Description:** 3D Action game
+- **No images available.**
 
-This README is created using Markdown and includes a brief description of each project along with images or video previews for quick visualization of my work. If you have any questions or comments, please feel free to reach out. Thank you for checking out my portfolio!
+This README includes a brief description of each project along with images for quick visualization of my work. If you have any questions or comments, please feel free to reach out. Thank you for checking out my portfolio!
 
