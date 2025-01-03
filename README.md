@@ -173,6 +173,14 @@ https://rextair.itch.io/3dmazerat
 - **Platform:** IOS
 - **Type:** Unity2D
 
+<div align="center">
+  <img src="content/imgs/Flinko Space Explorer/1.jpg" width="250" height="250" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/2.jpg" width="250" height="250" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/3.jpg" width="250" height="250" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/4.jpg" width="250" height="250" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/5.jpg" width="250" height="250" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/6.jpg" width="250" height="250"alt="Image">
+</div>
 
 ---
 ## Fliko Magic Spectrum
@@ -193,18 +201,42 @@ https://rextair.itch.io/3dmazerat
 - **Platform:** IOS
 - **Type:** Unity2D
 
+<div align="center">
+  <img src="content/imgs/Spin to win slots/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/6.jpg" width="225" height="150" alt="Image">
+</div>
 
 ---
-## Win the Slot-casino
+## Grand Zeus Slots
 - **Platform:** IOS
 - **Type:** Unity2D
 
+<div align="center">
+  <img src="content/imgs/Grand Zeus Slots/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Grand Zeus Slots/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Grand Zeus Slots/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Grand Zeus Slots/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Grand Zeus Slots/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Grand Zeus Slots/6.jpg" width="225" height="150" alt="Image">
+</div>
 
 ---
 ## Stake Forvard-Casino
 - **Platform:** IOS
 - **Type:** Unity2D
 
+<div align="center">
+  <img src="content/imgs/Stake Forvard-Casino/1.jpg" width="250" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/2.jpg" width="250" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/3.jpg" width="250" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/4.jpg" width="250" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/5.jpg" width="250" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/6.jpg" width="250" height="250"alt="Image">
+</div>
 
 ---
 ## Cosmo Quest - Rush Lot
