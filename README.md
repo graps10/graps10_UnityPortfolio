@@ -174,12 +174,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Flinko Space Explorer/1.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Flinko Space Explorer/2.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Flinko Space Explorer/3.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Flinko Space Explorer/4.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Flinko Space Explorer/5.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Flinko Space Explorer/6.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/1.jpg" width="125" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/2.jpg" width="125" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/3.jpg" width="125" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/4.jpg" width="125" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/5.jpg" width="125" height="150" alt="Image">
+  <img src="content/imgs/Flinko Space Explorer/6.jpg" width="125" height="150" alt="Image">
 </div>
 
 ---
@@ -202,12 +202,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Spin to win slots/1.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Spin to win slots/2.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Spin to win slots/3.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Spin to win slots/4.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Spin to win slots/5.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Spin to win slots/6.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/1.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/2.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/3.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/4.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/5.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/6.jpg" width="150" height="150" alt="Image">
 </div>
 
 ---
@@ -230,12 +230,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Stake Forvard-Casino/1.jpg" width="250" height="250" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/2.jpg" width="250" height="250" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/3.jpg" width="250" height="250" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/4.jpg" width="250" height="250" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/5.jpg" width="250" height="250" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/6.jpg" width="250" height="250"alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/1.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/2.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/3.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/4.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/5.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/6.jpg" width="150" height="150" alt="Image">
 </div>
 
 ---
