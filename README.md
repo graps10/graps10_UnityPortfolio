@@ -179,6 +179,14 @@ https://rextair.itch.io/3dmazerat
 - **Platform:** IOS
 - **Type:** Unity2D
 
+<div align="center">
+  <img src="content/imgs/Fliko Magic Spectrum/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/6.jpg" width="225" height="150" alt="Image">
+</div>
 
 ---
 ## Spin to win slots
@@ -203,6 +211,14 @@ https://rextair.itch.io/3dmazerat
 - **Platform:** IOS
 - **Type:** Unity2D
 
+<div align="center">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/6.jpg" width="225" height="150" alt="Image">
+</div>
 
 ---
 ## Yukon Kingdom - Gold Adventure
@@ -219,10 +235,18 @@ https://rextair.itch.io/3dmazerat
 </div>
 
 ---
-## Ox Haven - Barn Keeper
+## Yukon Haven - Barn Keeper
 - **Platform:** IOS
 - **Type:** Unity2D
 
+<div align="center">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/6.jpg" width="225" height="150" alt="Image">
+</div>
 
 ---
 ## PinCo Snapshot Escapades
@@ -230,12 +254,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Pinco Snapshot Escapades/1.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Pinco Snapshot Escapades/2.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Pinco Snapshot Escapades/3.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Pinco Snapshot Escapades/4.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Pinco Snapshot Escapades/5.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Pinco Snapshot Escapades/6.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/6.jpg" width="225" height="150" alt="Image">
 </div>
 
 ---
@@ -251,6 +275,7 @@ https://rextair.itch.io/3dmazerat
   <img src="content/imgs/BDG Goal Guardians/5.jpg" width="225" height="150" alt="Image">
   <img src="content/imgs/BDG Goal Guardians/6.jpg" width="225" height="150" alt="Image">
 </div>
+
 ---
 ## Aviato - Wings of Valor
 - **Platform:** IOS
