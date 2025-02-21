@@ -188,12 +188,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Fliko Magic Spectrum/1.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Fliko Magic Spectrum/2.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Fliko Magic Spectrum/3.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Fliko Magic Spectrum/4.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Fliko Magic Spectrum/5.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Fliko Magic Spectrum/6.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Fliko Magic Spectrum/6.jpg" width="150" height="250" alt="Image">
 </div>
 
 ---
@@ -202,12 +202,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Spin to win slots/1.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Spin to win slots/2.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Spin to win slots/3.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Spin to win slots/4.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Spin to win slots/5.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Spin to win slots/6.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Spin to win slots/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Spin to win slots/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Spin to win slots/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Spin to win slots/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Spin to win slots/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Spin to win slots/6.jpg" width="150" height="250" alt="Image">
 </div>
 
 ---
@@ -230,12 +230,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Stake Forvard-Casino/1.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/2.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/3.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/4.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/5.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/6.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/6.jpg" width="150" height="250" alt="Image">
 </div>
 
 ---
@@ -244,12 +244,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/1.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/2.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/3.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/4.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/5.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/6.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/6.jpg" width="150" height="250" alt="Image">
 </div>
 
 ---
@@ -272,12 +272,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/1.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/2.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/3.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/4.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/5.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/6.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/6.jpg" width="150" height="250" alt="Image">
 </div>
 
 ---
@@ -286,12 +286,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/PinCo Snapshot Escapades/1.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/PinCo Snapshot Escapades/2.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/PinCo Snapshot Escapades/3.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/PinCo Snapshot Escapades/4.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/PinCo Snapshot Escapades/5.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/PinCo Snapshot Escapades/6.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/PinCo Snapshot Escapades/6.jpg" width="150" height="250" alt="Image">
 </div>
 
 ---
@@ -300,12 +300,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/BDG Goal Guardians/1.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/BDG Goal Guardians/2.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/BDG Goal Guardians/3.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/BDG Goal Guardians/4.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/BDG Goal Guardians/5.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/BDG Goal Guardians/6.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/BDG Goal Guardians/6.jpg" width="150" height="250" alt="Image">
 </div>
 
 ---
@@ -314,12 +314,12 @@ https://rextair.itch.io/3dmazerat
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Aviato - Wings of Valor/1.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/2.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/3.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/4.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/5.jpg" width="150" height="150" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/6.jpg" width="150" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/6.jpg" width="150" height="250" alt="Image">
 </div>
 
 ---
