@@ -2,6 +2,13 @@
 
 Hello! I'm graps10, a Unity game developer. Here you'll find some of my projects.
 
+## RPG
+- **Platform:** Desktop
+- **Type:** Unity2D
+- **Something significant is coming...**
+
+---
+
 ## Dark Forest
 - **Platform:** Desktop
 - **Type:** Unity3D
@@ -108,35 +115,32 @@ Hello! I'm graps10, a Unity game developer. Here you'll find some of my projects
 - **Platform:** Desktop
 - **Type:** Unity3D
 - **Description:** Arcade game
+- **Itch Link: https://rextair.itch.io/3dmazerat**
 
-
-https://rextair.itch.io/3dmazerat
 
 ---
 ## Sahara Escape - Homeward Bound
 - **Platform:** IOS
 - **Type:** Unity2D
 - **App Store Link: https://apps.apple.com/ge/app/id6736633140**
-
+- **Unfortunately, the game was banned.**
 
 ---
-## Incredible Grocery
-- **Platform:** Android
+## Aviato - Wings of Valor
+- **Platform:** IOS
 - **Type:** Unity2D
-- **Description:** Memory Puzzle Game
-
 
 <div align="center">
-  <img src="content/imgs/Incredible Grocery/client_enters.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Incredible Grocery/order.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Incredible Grocery/order_assemble.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Incredible Grocery/products_selected.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Incredible Grocery/settings.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Incredible Grocery/wrong_products.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Incredible Grocery/correct_products.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Aviato - Wings of Valor/6.jpg" width="150" height="250" alt="Image">
 </div>
 
 ---
+
 ## Rabbit - Marketplace master
 - **Platform:** IOS
 - **Type:** Unity2D
@@ -152,23 +156,7 @@ https://rextair.itch.io/3dmazerat
 </div>
 
 ---
-## Dungeon Master
-- **Platform:** Desktop
-- **Type:** Unity2D
-- **Description:** 2D Platformer
 
-
-<div align="center">
-  <img src="content/imgs/Dungeon Master/1.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Dungeon Master/2.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Dungeon Master/3.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Dungeon Master/4.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Dungeon Master/5.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Dungeon Master/6.png" width="225" height="150" alt="Image">
-  <img src="content/imgs/Dungeon Master/7.png" width="225" height="150" alt="Image">
-</div>
-
----
 ## Flinko Space Explorer
 - **Platform:** IOS
 - **Type:** Unity2D
@@ -197,90 +185,7 @@ https://rextair.itch.io/3dmazerat
 </div>
 
 ---
-## Spin to win slots
-- **Platform:** IOS
-- **Type:** Unity2D
 
-<div align="center">
-  <img src="content/imgs/Spin to win slots/1.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Spin to win slots/2.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Spin to win slots/3.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Spin to win slots/4.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Spin to win slots/5.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Spin to win slots/6.jpg" width="150" height="250" alt="Image">
-</div>
-
----
-## Grand Zeus Slots
-- **Platform:** IOS
-- **Type:** Unity2D
-
-<div align="center">
-  <img src="content/imgs/Grand Zeus Slots/1.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Grand Zeus Slots/2.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Grand Zeus Slots/3.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Grand Zeus Slots/4.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Grand Zeus Slots/5.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Grand Zeus Slots/6.jpg" width="225" height="150" alt="Image">
-</div>
-
----
-## Stake Forvard-Casino
-- **Platform:** IOS
-- **Type:** Unity2D
-
-<div align="center">
-  <img src="content/imgs/Stake Forvard-Casino/1.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/2.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/3.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/4.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/5.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Stake Forvard-Casino/6.jpg" width="150" height="250" alt="Image">
-</div>
-
----
-## Cosmo Quest - Rush Lot
-- **Platform:** IOS
-- **Type:** Unity2D
-
-<div align="center">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/1.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/2.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/3.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/4.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/5.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Cosmo Quest - Rush Lot/6.jpg" width="150" height="250" alt="Image">
-</div>
-
----
-## Yukon Kingdom - Gold Adventure
-- **Platform:** IOS
-- **Type:** Unity2D
-
-<div align="center">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/1.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/2.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/3.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/4.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/5.jpg" width="225" height="150" alt="Image">
-  <img src="content/imgs/Yukon Kingdom - Gold Adventure/6.jpg" width="225" height="150" alt="Image">
-</div>
-
----
-## Yukon Haven - Barn Keeper
-- **Platform:** IOS
-- **Type:** Unity2D
-
-<div align="center">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/1.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/2.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/3.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/4.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/5.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Yukon Haven - Barn Keeper/6.jpg" width="150" height="250" alt="Image">
-</div>
-
----
 ## PinCo Snapshot Escapades
 - **Platform:** IOS
 - **Type:** Unity2D
@@ -295,6 +200,22 @@ https://rextair.itch.io/3dmazerat
 </div>
 
 ---
+
+## Yukon Haven - Barn Keeper
+- **Platform:** IOS
+- **Type:** Unity2D
+
+<div align="center">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Yukon Haven - Barn Keeper/6.jpg" width="150" height="250" alt="Image">
+</div>
+
+---
+
 ## BDG Goal Guardians
 - **Platform:** IOS
 - **Type:** Unity2D
@@ -309,17 +230,115 @@ https://rextair.itch.io/3dmazerat
 </div>
 
 ---
-## Aviato - Wings of Valor
+
+## Cosmo Quest - Rush Lot
 - **Platform:** IOS
 - **Type:** Unity2D
 
 <div align="center">
-  <img src="content/imgs/Aviato - Wings of Valor/1.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/2.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/3.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/4.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/5.jpg" width="150" height="250" alt="Image">
-  <img src="content/imgs/Aviato - Wings of Valor/6.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Cosmo Quest - Rush Lot/6.jpg" width="150" height="250" alt="Image">
+</div>
+
+---
+
+## Spin to win slots
+- **Platform:** IOS
+- **Type:** Unity2D
+
+<div align="center">
+  <img src="content/imgs/Spin to win slots/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Spin to win slots/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Spin to win slots/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Spin to win slots/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Spin to win slots/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Spin to win slots/6.jpg" width="150" height="250" alt="Image">
+</div>
+
+---
+
+## Grand Zeus Slots
+- **Platform:** IOS
+- **Type:** Unity2D
+
+<div align="center">
+  <img src="content/imgs/Grand Zeus Slots/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Grand Zeus Slots/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Grand Zeus Slots/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Grand Zeus Slots/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Grand Zeus Slots/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Grand Zeus Slots/6.jpg" width="225" height="150" alt="Image">
+</div>
+
+---
+
+## Stake Forvard-Casino
+- **Platform:** IOS
+- **Type:** Unity2D
+
+<div align="center">
+  <img src="content/imgs/Stake Forvard-Casino/1.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/2.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/3.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/4.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/5.jpg" width="150" height="250" alt="Image">
+  <img src="content/imgs/Stake Forvard-Casino/6.jpg" width="150" height="250" alt="Image">
+</div>
+
+---
+
+## Dungeon Master
+- **Platform:** Desktop
+- **Type:** Unity2D
+- **Description:** 2D Platformer
+
+
+<div align="center">
+  <img src="content/imgs/Dungeon Master/1.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/2.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/3.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/4.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/5.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/6.png" width="225" height="150" alt="Image">
+  <img src="content/imgs/Dungeon Master/7.png" width="225" height="150" alt="Image">
+</div>
+
+---
+
+
+## Yukon Kingdom - Gold Adventure
+- **Platform:** IOS
+- **Type:** Unity2D
+
+<div align="center">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/1.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/2.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/3.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/4.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/5.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Yukon Kingdom - Gold Adventure/6.jpg" width="225" height="150" alt="Image">
+</div>
+
+---
+
+## Incredible Grocery
+- **Platform:** Android
+- **Type:** Unity2D
+- **Description:** Memory Puzzle Game
+
+
+<div align="center">
+  <img src="content/imgs/Incredible Grocery/client_enters.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/order.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/order_assemble.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/products_selected.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/settings.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/wrong_products.jpg" width="225" height="150" alt="Image">
+  <img src="content/imgs/Incredible Grocery/correct_products.jpg" width="225" height="150" alt="Image">
 </div>
 
 ---
